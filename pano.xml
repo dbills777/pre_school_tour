@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17985" start="node4" appversion="6.1.9">
+  <panorama id="node4">
+    <input levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2985" levelingpitch="0" width="2985" leveltilesize="510" overlap="1">
+      <level preload="0" predecode="0" height="2985" width="2985"/>
+      <level preload="0" predecode="0" height="1492" width="1492"/>
+      <level preload="0" predecode="0" height="746" width="746"/>
+      <level preload="1" predecode="1" height="373" width="373"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="539.729" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata comment="" longitude="-112.01430559" title="Bright Wonders Preschool" copyright="" source="" tags="AllNodePanos" info="" latitude="40.38366113" nodeid="node4" heading="539.729" author="" datetime="10/19/20 4:48 PM" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" textcolor="0x000000" borderalpha="1" background="1" border="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" backgroundalpha="1" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" title="Tables" pan="-341.71" url="{node3}" distance="12.5957" target="-169.1/-2.4/67.4" description="" tilt="-0.04"/>
+      <hotspot id="Point02" skinid="ht_node" title="Bright Wonders Preschool" pan="363.884" url="{node2}" distance="5.95998" target="$fwd" description="" tilt="-12.85"/>
+      <hotspot id="Point03" skinid="ht_node" title="Bright Wonders Preschool" pan="717.458" url="{node1}" distance="12.3203" target="$fwd" description="" tilt="-0.39"/>
+      <hotspot id="Point04" skinid="ht_node" title="Bright Wonders Preschool" pan="-327.56" url="{node5}" distance="7.16301" target="" description="" tilt="-10.24"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" blendcolor="0x000000" zoomfov="20" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" enabled="1" softedge="0"/>
+    <autorotate speed="0.050" nodedelay="0.00" noderandom="1" useanimation="0" returntohorizon="0.000" nodefilter="" delay="5.00" enabled="1" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" rubberband="0" contextfullscreen="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2988" levelingpitch="0" width="2988" leveltilesize="510" overlap="1">
+      <level preload="0" predecode="0" height="2988" width="2988"/>
+      <level preload="0" predecode="0" height="1494" width="1494"/>
+      <level preload="0" predecode="0" height="747" width="747"/>
+      <level preload="1" predecode="1" height="373" width="373"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="183.491" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata comment="" longitude="-112.01431498" title="Bright Wonders Preschool" copyright="" source="" tags="AllNodePanos" info="" latitude="40.38360801" nodeid="node2" heading="183.491" author="" datetime="10/19/20 4:50 PM" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" textcolor="0x000000" borderalpha="1" background="1" border="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" backgroundalpha="1" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" title="Bright Wonders Preschool" pan="347.29" url="{node1}" distance="6.39693" target="90.0/-0.9/70.0" description="" tilt="-2.71"/>
+      <hotspot id="Point02" skinid="ht_node" title="Bright Wonders Preschool" pan="18.43" url="{node3}" distance="7.00676" target="-179.0/0.0/70.0" description="" tilt="-1.4"/>
+      <hotspot id="Point03" skinid="ht_node" title="Bright Wonders Preschool" pan="177.83" url="{node4}" distance="5.95998" target="178.9/-0.2/70.0" description="" tilt="0.47"/>
+      <hotspot id="Point04" skinid="ht_node" title="Bright Wonders Preschool" pan="107.131" url="{node5}" distance="2.8057" target="$fwd" description="" tilt="-8"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" blendcolor="0x000000" zoomfov="20" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" enabled="1" softedge="0"/>
+    <autorotate speed="0.050" nodedelay="0.00" noderandom="1" useanimation="0" returntohorizon="0.000" nodefilter="" delay="5.00" enabled="1" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" rubberband="0" contextfullscreen="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2982" levelingpitch="0" width="2982" leveltilesize="510" overlap="1">
+      <level preload="0" predecode="0" height="2982" width="2982"/>
+      <level preload="0" predecode="0" height="1491" width="1491"/>
+      <level preload="0" predecode="0" height="745" width="745"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-89.646" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata comment="" longitude="-112.01428413" title="Bright Wonders Preschool" copyright="" source="" tags="AllNodePanos" info="" latitude="40.38359882" nodeid="node5" heading="-89.646" author="" datetime="10/19/20 4:59 PM" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" textcolor="0x000000" borderalpha="1" background="1" border="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" backgroundalpha="1" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" title="Bright Wonders Preschool" pan="-74.9461" url="{node4}" distance="7.16301" target="$fwd" description="" tilt="0"/>
+      <hotspot id="Point02" skinid="ht_node" title="Bright Wonders Preschool" pan="-345.416" url="{node2}" distance="2.8057" target="$fwd" description="" tilt="-6"/>
+      <hotspot id="Point03" skinid="ht_node" title="Bright Wonders Preschool" pan="92.2972" url="{node3}" distance="5.57108" target="$fwd" description="" tilt="-1.66"/>
+      <hotspot id="Point04" skinid="ht_node" title="Bright Wonders Preschool" pan="60.5299" url="{node1}" distance="6.76402" target="$fwd" description="" tilt="-0.33"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" blendcolor="0x000000" zoomfov="20" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" enabled="1" softedge="0"/>
+    <autorotate speed="0.050" nodedelay="0.00" noderandom="1" useanimation="0" returntohorizon="0.000" nodefilter="" delay="5.00" enabled="1" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" rubberband="0" contextfullscreen="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2988" levelingpitch="0" width="2988" leveltilesize="510" overlap="1">
+      <level preload="0" predecode="0" height="2988" width="2988"/>
+      <level preload="0" predecode="0" height="1494" width="1494"/>
+      <level preload="0" predecode="0" height="747" width="747"/>
+      <level preload="1" predecode="1" height="373" width="373"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-88.5597" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata comment="" longitude="-112.01433643" title="Bright Wonders Preschool" copyright="" source="" tags="AllNodePanos" info="" latitude="40.38355285" nodeid="node1" heading="-88.5597" author="" datetime="10/19/20 4:53 PM" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" textcolor="0x000000" borderalpha="1" background="1" border="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" backgroundalpha="1" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" title="Bright Wonders Preschool" pan="-189.02" url="{node3}" distance="4.2265" target="$fwd" description="" tilt="-0.02"/>
+      <hotspot id="Point02" skinid="ht_node" title="Bright Wonders Preschool" pan="-103.778" url="{node2}" distance="6.39693" target="$fwd" description="" tilt="-6.92"/>
+      <hotspot id="Point03" skinid="ht_node" title="Bright Wonders Preschool" pan="-96.1031" url="{node4}" distance="12.3203" target="$fwd" description="" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" blendcolor="0x000000" zoomfov="20" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" enabled="1" softedge="0"/>
+    <autorotate speed="0.050" nodedelay="0.00" noderandom="1" useanimation="0" returntohorizon="0.000" nodefilter="" delay="5.00" enabled="1" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" rubberband="0" contextfullscreen="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2979" levelingpitch="0" width="2979" leveltilesize="510" overlap="1">
+      <level preload="0" predecode="0" height="2979" width="2979"/>
+      <level preload="0" predecode="0" height="1489" width="1489"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-6.63928" fovmode="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata comment="" longitude="-112.01428682" title="Bright Wonders Preschool" copyright="" source="" tags="AllNodePanos" info="" latitude="40.38354876" nodeid="node3" heading="-6.63928" author="" datetime="10/19/20 4:55 PM" customnodeid="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label bordercolor="0x000000" textcolor="0x000000" borderalpha="1" background="1" border="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" backgroundalpha="1" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" title="Bright Wonders Preschool" pan="28.2644" url="{node2}" distance="7.00676" target="$fwd" description="" tilt="-5.72"/>
+      <hotspot id="Point02" skinid="ht_node" title="Bright Wonders Preschool" pan="77.1835" url="{node1}" distance="4.2265" target="$fwd" description="" tilt="0"/>
+      <hotspot id="Point03" skinid="ht_node" title="Bright Wonders Preschool" pan="14.5619" url="{node4}" distance="12.5957" target="$fwd" description="" tilt="-0.92"/>
+      <hotspot id="Point04" skinid="ht_node" title="Bright Wonders Preschool" pan="-357.146" url="{node5}" distance="5.57108" target="$fwd" description="" tilt="-4.21"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" blendcolor="0x000000" zoomfov="20" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" enabled="1" softedge="0"/>
+    <autorotate speed="0.050" nodedelay="0.00" noderandom="1" useanimation="0" returntohorizon="0.000" nodefilter="" delay="5.00" enabled="1" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" rubberband="0" contextfullscreen="1" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" longitude="" title="" copyright="" source="" tags="" info="" latitude="" nodeid="master" heading="0" author="" datetime="" customnodeid="" description=""/>
+  </masternode>
+</tour>
